@@ -1,0 +1,23 @@
+{
+  "name": "fed-e-task-01-02",
+  "version": "1.0.0",
+  "description": "fed-e-task-01-02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leelic07/fed-e-task-01-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leelic07/fed-e-task-01-02/issues"
+  },
+  "homepage": "https://github.com/leelic07/fed-e-task-01-02#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
